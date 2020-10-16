@@ -1,2 +1,4 @@
 # hello-world
-A place to store ideas, resources, or even share and discuss things with others
+Hi guys!
+
+This is a test. If it works, I'm having pizza tonight!
